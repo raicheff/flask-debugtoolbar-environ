@@ -1,7 +1,7 @@
 #
 # Flask-DebugToolbar-More
 #
-# Copyright (C) 2017 Boris Raicheff
+# Copyright (C) 2019 Boris Raicheff
 # All rights reserved
 #
 
