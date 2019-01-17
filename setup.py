@@ -16,7 +16,7 @@ setup(
     author_email='b@raicheff.com',
     url='https://github.com/raicheff/flask-debugtoolbar-environ',
     include_package_data=True,
-    py_modules=('flask_debugtoolbar_environ',),
+    py_modules=find_packages(),
 )
 
 
