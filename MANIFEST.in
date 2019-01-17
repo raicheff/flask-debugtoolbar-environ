@@ -1,0 +1,1 @@
+include flask_debugtoolbar_environ/environ.html
